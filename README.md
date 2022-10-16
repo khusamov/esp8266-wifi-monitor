@@ -27,3 +27,17 @@ https://alexgyver.ru/gyverbus/
 Если это не получится, то есть еще несколько вариантов как связать.
 
 Данная связь нужна для передачи кадра на монитор.
+
+Программирование ESP-01
+----------------
+
+https://portal-pk.ru/news/241-obzor-usb-adaptera-programmatora-dlya-esp-01-na-ch340g.html
+
+Ссылки
+------
+
+Схема проекта:
+https://easyeda.com/editor#id=31b8b3f701ac42ca969ea86ee8b71cc9
+
+Библиотека TV-out:
+https://github.com/Avamander/arduino-tvout
